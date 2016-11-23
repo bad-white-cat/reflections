@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is similar to draft. You should get ready files here before sending them to rep.
