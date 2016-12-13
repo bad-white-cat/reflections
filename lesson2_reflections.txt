@@ -1,0 +1,12 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is similar to draft. You should get ready files here before sending them to rep.
+
+How do the diagrams help you visualize the branch structure?
+With their help you can imagine your master and branches like a tree. You know exactly where you are and where you're going to make changes.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Result is the branch (one that was checked out previously) including all the changes from both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic does mechanical work, while manual gives more information what's going on.
