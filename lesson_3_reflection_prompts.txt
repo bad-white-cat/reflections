@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+I'm listening course in home, but sometimes can listen a lesson on work. In this situation I'd prefer to use remote repository because a local one is in home.
