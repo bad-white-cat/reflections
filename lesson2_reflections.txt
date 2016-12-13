@@ -9,4 +9,4 @@ What is the result of merging two branches together? Why do we represent it in t
 Result is the branch (one that was checked out previously) including all the changes from both branches.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-Automatic does mechanical work, while manual gives more information what's going on.
+Automatic does mechanical work, while manual gives more information what's going on. Automatic merging helps to avoid silly mistakes, while manual - serious ones.
